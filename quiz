@@ -1,0 +1,18 @@
+ <title>Frank's Website</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+   <p> <strong>I am cat </strong></p>
+    <em>meow</em>
+    <p>do you want me to...</p>
+        <ol>
+        <li>bring me a treat?</li>
+        <li>take a nap</li>  
+        <li>buy me a new cat toy? like a..</li>
+    <ol>
+        <li>Fortnite</li>
+        <li>Roblox</li>
+    </ol>
+    </ol>
+</body>
+</html>
